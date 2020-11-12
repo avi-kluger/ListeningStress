@@ -1,0 +1,156 @@
+Author,Sample,Country,N,IV,DV ,Effect of exposure,Student_1_Exposure,Student_2_Exposure,Final,Student_1_Stress,Student_2_Stress,Final
+Lewis & Manusov (2009),College students in upper-level communication,USA,82,Exposure time in days,Stress,Y,ST,NA,ST,NA,NA,NA
+Altabef et al. (2017),Therapist- split between students currently in graduate school and practitioners in the field .,Unknown,71,Exposure to emotional distress,Changes in NA for AL (active listening) vs NON-AL pre and post distress,Y,IN,NA,IN,NA,NA,NA
+Altabef et al. (2017),Therapist- split between students currently in graduate school and practitioners in the field .,Unknown,71,Exposure to emotional distress,Emotional reaction to distress,Y,IN,NA,IN,NA,NA,NA
+Lusk & Terrazas (2015),Professionals and para-professionals who work directly with refugees. The majority of the participants were Hispanic,USA,31,"Exposure time: weekly caseloads, years working with migrants, years living in El Paso, and hours per week working with migrants","Secondary Traumatic Stress Scale (STSS) score, Professional Quality of Life Scale  (ProQOL) score",Y,ST,LT,LT,STS,STS,STS
+Lusk & Terrazas (2015),Professionals and para-professionals who work directly with refugees. ,USA,31,Years living in El Paso,ProQOL scale,Y,LT,LT,LT,NA,NA,NA
+Lusk & Terrazas (2015),Professionals and para-professionals who work directly with refugees. ,USA,31,Hours per week working with migrants,ProQOL scale,Y,ST,ST,ST,NA,NA,NA
+Lusk & Terrazas (2015),Professionals and para-professionals who work directly with refugees. ,USA,31,Exposure (wasn't elaborated),ProQOL scale,Y,ST,ST,ST,NA,NA,NA
+Lusk & Terrazas (2015),Professionals and para-professionals who work directly with refugees. ,USA,31,Exposure (wasn't elaborated),STSS range,Y,ST,ST,ST,STS,STS,STS
+Hargrave et al. (2006),Victim Support volunteer crisis workers,New Zealand,64,Years of experience  with Victim Support,Secondary traumatic stress (STS) as measured by the IES,Y,LT,LT,LT,STS,STS,STS
+Hargrave et al. (2006),Victim Support volunteer crisis workers,New Zealand,64,Exposure to victims,Secondary traumatic stress (STS) as measured by the IES,Y,NA,IN,IN,STS,STS,STS
+Hargrave et al. (2006),Victim Support volunteer crisis workers,New Zealand,64,Cases involving death and/or children,Secondary traumatic stress (STS) as measured by the IES,Y,NA,IN,IN,STS,STS,STS
+Boasso et al. (2014),Hurricane Katrina survivors,USA,84,PTS symptoms and the level of distress of the speaker,Agitated arousal levels in disaster-exposed individuals after listening to a self-relevant trauma narrative,Y,LT,LT,IN,NA,NA,NA
+Boasso et al. (2014),Hurricane Katrina survivors,USA,84,Symptoms and the level of distress of the speaker,Aggregate measure of agitated affect in listener ,Y,IN,IN,IN,NA,NA,NA
+Boasso et al. (2014),Hurricane Katrina survivors high pts symptoms,USA,11,Distressed vs Recovered woman,agitation,Y,IN,IN,IN,NA,NA,NA
+Boasso et al. (2014),Hurricane Katrina survivors low pts symptoms,USA,11,Distressed vs Recovered woman,agitation,Y,IN,IN,IN,NA,NA,NA
+Roche & Ogden (2017),Samaritan listening volunteers,UK,216,Hours per week volunteering on listening,measure the health of the participants,Y,NA,ST,ST,NA,NA,NA
+Kellas et al. (2015),"College students / college student friend dyads (19-35 years old, M = 20.8, SD = 3.09). 51 men (52%) and 47 women (48%) in same-sex (n = 34, 69.4%) and mixed-sex (n = 15, 30.6%) pairs.",USA,49,Over time,Listeners' psychological helath (Well-Being) over time - negative affect,Y,LT,LT,LT,NA,NA,NA
+Kellas et al. (2015),"College students / college student friend dyads (19-35 years old, M = 20.8, SD = 3.09). 51 men (52%) and 47 women (48%) in same-sex (n = 34, 69.4%) and mixed-sex (n = 15, 30.6%) pairs.",USA,49,Over time,Listeners' psychological helath (Well-Being) over time - positive affect,Y,LT,LT,LT,NA,NA,NA
+Kellas et al. (2015),"College students / college student friend dyads (19-35 years old, M = 20.8, SD = 3.09). 51 men (52%) and 47 women (48%) in same-sex (n = 34, 69.4%) and mixed-sex (n = 15, 30.6%) pairs.",USA,49,Over time,Listeners' psychological helath (Well-Being) over time - negative affect,Y,LT,LT,LT,NA,NA,NA
+Baird & Jenkins (2003),Trauma Counselors,USA,94,Exposure to client (number of clients and hours per week in the month before survey),Secondary Traumatic Stress,Y,NA,ST,ST,STS,STS,STS
+Bober & Regehr (2005),Therapists,USA,259,Hours per week spent providing counseling,,Y,NA,ST,ST,NA,NA,NA
+Brady et al. (1999),Therapists,USA,259,Average no. of survivors of sexual abuse over career,PTSD-like Sympotms,Y,NA,LT,LT,NA,NA,NA
+Brady et al. (1999),Therapists,USA,231,Average percent of survivors of sexual abuse out of total cases over career,PTSD-like Sympotms,Y,LT,LT,LT,NA,NA,NA
+Brady et al. (1999),Therapists,USA,284,Exposure to graphic details,PTSD-like Sympotms,Y,IN,IN,IN,NA,NA,NA
+Ackerley et al. (1988),Therapists,USA,562,Hours per week working,MBI (EE-emotional exhaustion),Y,ST,ST,ST,BO,BO,BO
+Ackerley et al. (1988),Therapists,USA,562,Hours per week working,MBI (DP-DePersonalization),Y,ST,ST,ST,BO,BO,BO
+Ackerley et al. (1988),Therapists,USA,562,Hours per week working,MBI (PA-lack of personal accomplishment),Y,ST,ST,ST,BO,BO,BO
+Ackerley et al. (1988),Therapists,USA,562,Years working,MBI (EE-emotional exhaustion),Y,LT,LT,LT,BO,BO,BO
+Ackerley et al. (1988),Therapists,USA,562,Years working,MBI (DP-DePersonalization),Y,LT,LT,LT,BO,BO,BO
+Ackerley et al. (1988),Therapists,USA,562,Years working,MBI (PA-lack of personal accomplishment),Y,LT,LT,LT,BO,BO,BO
+Adams et al. (2001),Mixed caregivers,,185,Hours per week,TSI,Y,ST,ST,ST,NA,NA,NA
+Adams et al. (2001),Mixed caregivers,,185,Hours per week,MBI (EE-emotional exhaustion),Y,ST,ST,ST,BO,BO,BO
+Adams et al. (2001),Mixed caregivers,,185,Hours per week,MBI (DP-DePersonalization),Y,ST,ST,ST,BO,BO,BO
+Adams et al. (2001),Mixed caregivers,,185,Hours per week,MBI (PA-lack of personal accomplishment),Y,ST,ST,ST,BO,BO,BO
+Adams et al. (2001),Mixed caregivers,,185,Years Working,TSI,Y,LT,LT,LT,NA,NA,NA
+Adams et al. (2001),Mixed caregivers,,185,Years Working,MBI (EE-emotional exhaustion),Y,LT,LT,LT,BO,BO,BO
+Adams et al. (2001),Mixed caregivers,,185,Years Working,MBI (DP-DePersonalization),Y,LT,LT,LT,BO,BO,BO
+Adams et al. (2001),Mixed caregivers,,185,Years Working,MBI (PA-lack of personal accomplishment),Y,LT,LT,LT,BO,BO,BO
+Adams et al. (2006),Social workers,,206,% of clients survivors of violence,CF (long scale -30 items),Y,IN,IN,IN,NA,NA,NA
+Adams et al. (2006),Social workers,,206,% of clients survivors of violence,CF (short scale),Y,IN,IN,IN,NA,NA,NA
+Adams et al. (2006),Social workers,,206,% of clients survivors of violence,Work Burnout,Y,IN,IN,IN,BO,BO,BO
+Adams et al. (2006),Social workers,,206,% of clients survivors of violence,Secondary Trauma Scale,Y,NA,IN,IN,STS,STS,STS
+Adams et al. (2006),Social workers,,206,9/11 involvement,CF (long scale -30 items),Y,NA,IN,IN,NA,NA,NA
+Adams et al. (2006),Social workers,,206,9/11 involvement,CF (short scale),Y,NA,IN,IN,NA,NA,NA
+Adams et al. (2006),Social workers,,206,9/11 involvement,Work Burnout,Y,NA,IN,IN,BO,BO,BO
+Adams et al. (2006),Social workers,,206,9/11 involvement,Secondary Trauma Scale,Y,IN,IN,IN,STS,STS,STS
+Adams et al. (2008),Social workers,,234,Years working,Secondary trauma (first 5 of 13 in CF scale - cut down from 30 CF scale),Y,LT,LT,LT,STS,STS,STS
+Adams et al. (2008),Social workers,,234,Years working,Secondary trauma (second 8 of 13 in CF scale - cut down from 30 CF scale),Y,LT,LT,LT,STS,STS,STS
+Adams et al. (2008),Social workers,,246,How many clients are victims of violent crimes,Secondary trauma (first 5 of 13 in CF scale - cut down from 30 CF scale),Y,IN,IN,IN,STS,STS,STS
+Adams et al. (2008),Social workers,,236,How many clients are victims of violent crimes,Secondary trauma (second 8 of 13 in CF scale - cut down from 30 CF scale),Y,IN,IN,IN,STS,STS,STS
+Adams et al. (2008),Social workers,,236,Participation in 9/11 counseling,Secondary trauma (first 5 of 13 in CF scale - cut down from 30 CF scale),Y,IN,IN,IN,STS,STS,STS
+Adams et al. (2008),Social workers,,236,Participation in 9/11 counseling,Secondary trauma (second 8 of 13 in CF scale - cut down from 30 CF scale),Y,NA,IN,IN,STS,STS,STS
+Adams et al. (2008),Social workers,,236,Participation in 9/11 counseling,Secondary trauma (second 8 of 13 in CF scale - cut down from 30 CF scale),Y,NA,IN,IN,STS,STS,STS
+Adams et al. (2008),Social workers,,236,Participation in 9/11 Recovery,Secondary trauma (second 8 of 13 in CF scale - cut down from 30 CF scale),Y,IN,IN,IN,STS,STS,STS
+Ashraf & Nassar (2018),American Muslims,USA,109,Exposure to other peoles trauma,VT (measured by TABS 84 item scale),Y,IN,IN,IN,VT,VT,VT
+Bachem et al. (2019),Wives of veternas,Israel,107,Wives of POW not second generation holocaust vs Wives of Prisoners of war also second genration holocaust,Interest age,Y,IN,IN,IN,NA,NA,NA
+Bachem et al. (2019),Wives of veternas,Israel,166,Wives of second generation holocaust vs not in full sample,Interest age,Y,IN,IN,IN,NA,NA,NA
+Bachem et al. (2019),Wives of veternas,Israel,166,Wives of prisoners of war vs Wives not of Prisoners of war,Interest age,Y,IN,IN,IN,NA,NA,NA
+Bachem et al. (2019),Wives of veternas,Israel,166,Wives of veterans vs Wives of Prisoners of war,Felt age,Y,IN,IN,IN,NA,NA,NA
+Bachem et al. (2019),Wives of veternas,Israel,166,Second generation holocaust survivors vs not,Felt age,Y,IN,NA,IN,NA,NA,NA
+Bachem et al. (2019),Wives of veternas,Israel,166,Second generation holocaust survivors and POW vs not both,Felt age,Y,IN,IN,IN,NA,NA,NA
+Bachem et al. (2019),Wives of veternas,Israel,166,Wives of veterans vs Wives of Prisoners of war,Age appearance,Y,IN,IN,IN,NA,NA,NA
+Bachem et al. (2019),Wives of veternas,Israel,166,Second generation holocaust survivors vs not,Age appearance,Y,IN,IN,IN,NA,NA,NA
+Bachem et al. (2019),Wives of veternas,Israel,166,Second generation holocaust survivors and POW vs not both,Age appearance,Y,IN,IN,IN,NA,NA,NA
+Bachem et al. (2019),Wives of veternas,Israel,166,Wives of veterans vs Wives of Prisoners of war,Behaviour age,Y,IN,IN,IN,NA,NA,NA
+Bachem et al. (2019),Wives of veternas,Israel,166,Second generation holocaust survivors vs not,Behaviour age,Y,IN,IN,IN,NA,NA,NA
+Bachem et al. (2019),Wives of veternas,Israel,166,Second generation holocaust survivors and POW vs not both,Behaviour age,Y,IN,IN,IN,NA,NA,NA
+Badger et al. (2014),Social workers,USA,121,Years of work,STSS (Secondary traumatic stress scale - Figley 2004),Y,LT,LT,LT,STS,STS,STS
+Badger et al. (2014),Social workers,USA,121,Occupational stress (Work related strain inventory),STSS (Secondary traumatic stress scale - Figley 2004),Y,ST,ST,ST,STS,STS,STS
+Bhutani et al. (2012),Therapists,India,60,Hours of work per day,Burnout + STS (PROQol questionnaire),Y,ST,NA,ST,BO,BO,BO
+Bhutani et al. (2012),Therapists,India,60,Number of patients per day,Burnout + STS (PROQol questionnaire),Y,ST,ST,ST,BO,BO,BO
+Bhutani et al. (2012),Therapists,India,60,Number of emrgency wake ups per Month,Burnout + STS (PROQol questionnaire),Y,NA,ST,ST,BO,NA,BO
+Bober & Regehr (2005),"Caregivers(social workers, doctors and nurses)",Canada,259,Hours per week,STS (IES-Impact of events scale Zilberg(1982)),Y,ST,ST,ST,STS,STS,STS
+Bober & Regehr (2005),"Caregivers(social workers, doctors and nurses)",Canada,259,Hours per week with heavily traumatized,STS (IES-Impact of events scale Zilberg(1982)),Y,ST,ST,ST,STS,STS,STS
+Burruss et al. (2017),Investigators into child pornography/exploitaion crimes,USA,360,"Hours per week spent reviewing evidence against the crimes (videos, images emails etc.)",STSS (Secondary traumatic stress scale - Figley 2004 - 17 items),Y,ST,IN,ST,STS,STS,STS
+Choi et al. (2011),Social workers,USA,154,Hours per week with providing services to trauma cases),STSS (Secondary traumatic stress scale - Figley 2004 - 17 items),Y,ST,ST,ST,STS,STS,STS
+Choi et al. (2011),Social workers,USA,154,Years of experience,STSS (Secondary traumatic stress scale - Figley 2004 - 17 items),Y,LT,IN,LT,STS,STS,STS
+Cosden et al. (2016),Counselors,USA,51,Years of experience,STS (IES-Impact of events scale Zilberg(1982) - revised),Y,LT,IN,LT,STS,STS,STS
+Coyne (1976),Randomly selected,USA,45,Depression score of person being talked with (MAACL - Zuckerman (1965) - multiple affect abjective checklist),Depression of listener  (MAACL - Zuckerman (1965)),Y,ST,IN,IN,NA,NA,NA
+Coyne (1976),Randomly selected,USA,45,Depression score of person being talked with (MAACL - Zuckerman (1965)- multiple affect abjective checklist),Anxiety of listener  (MAACL - Zuckerman (1965)),Y,IN,IN,IN,NA,NA,NA
+Coyne (1976),Randomly selected,USA,45,Anxiety score of person being talked with  (MAACL - Zuckerman (1965)),Depression of listener (MAACL - Zuckerman (1965)),Y,IN,IN,IN,NA,NA,NA
+Coyne (1976),Randomly selected,USA,45,Anxiety score of person being talked with  (MAACL - Zuckerman (1965)),Anxiety of listener (MAACL - Zuckerman (1965)),Y,NA,IN,IN,NA,NA,NA
+Coyne et al. (1987),People living with/without a depressed person,USA,65,Living with currently depressed person,Psychoogical distress (HSCL-25),Y,NA,ST,ST,NA,NA,NA
+Cunningham (2003),Therapists,USA,174,Treating sexual abuse vs treating cancer,self-safety - subscale ofTSIBS,Y,NA,IN,IN,NA,NA,NA
+Cunningham (2003),Therapists,USA,121,Treating sexual abuse vs treating cancer,other-trust- subscale ofTSIBS,Y,NA,IN,IN,NA,NA,NA
+Cunningham (2003),Therapists,USA,121,Treating sexual abuse vs treating cancer,other-esteem- subscale ofTSIBS,Y,NA,IN,IN,NA,NA,NA
+Dagan et al. (2015),Social workers,Isarel,217,"Percentage of cases that were trauma survivors, exposure to content and precieved caseload (hommade questionnaire)",STSS (Secondary traumatic stress scale - Figley 2004 - 17 items),Y,IN,IN,IN,STS,STS,STS
+Devilly et al. (2009),Mental Health professionals,Australia,78,Low vs High trauma caseload,VT (TSI-BSL-Traumatic stress institute belief scale),Y,IN,IN,IN,VT,VT,VT
+Devilly et al. (2009),Mental Health professionals,Australia,78,Low vs High trauma caseload,STSS (Secondary traumatic stress scale - Figley 2004 - 17 items),Y,IN,IN,IN,STS,STS,STS
+Dworkin et al. (2014),Rape crisis center personnel,USA,164,Number of years,STS -  Posttraumatic Checklist - Civilian Version (PCL-C),Y,NA,LT,LT,STS,STS,STS
+Dworkin et al. (2014),Rape crisis center personnel,USA,164,Caseload (Victims met per week),STS -  Posttraumatic Checklist - Civilian Version (PCL-C),Y,ST,ST,ST,STS,STS,STS
+Dworznik (2018),Media reporters,USA,70,Encounters with trauma victims (days a week interviewing victims of trauma),CF scale short (Figley 2004),Y,ST,ST,ST,NA,NA,NA
+Dworznik (2018),Media reporters,USA,70,Encounters with trauma victims (days a week interviewing victims of trauma),STS part of CF scale short (Figley 2004),Y,ST,ST,ST,STS,STS,STS
+Dworznik (2018),Media reporters,USA,70,Encounters with trauma victims (days a week interviewing victims of trauma),BO part of CF scale short (Figley 2004),Y,ST,ST,ST,BO,BO,BO
+Dworznik (2018),Media reporters,USA,70,Encounters with traumatic scenes (average days a week covering traumatic stories),CF scale short (Figley 2004),Y,ST,IN,ST,NA,NA,NA
+Dworznik (2018),Media reporters,USA,70,Encounters with traumatic scenes (average days a week covering traumatic stories),STS part of CF scale short (Figley 2004),Y,ST,IN,ST,STS,STS,STS
+Dworznik (2018),Media reporters,USA,70,Encounters with traumatic scenes (average days a week covering traumatic stories),BO part of CF scale short (Figley 2004),Y,ST,IN,ST,BO,BO,BO
+Ennis & Horne (2003),Therapists,USA and Canada,59,Number of sex offender contact hours per week,Psychoogical distress (king 1985),Y,ST,IN,ST,NA,NA,NA
+Eriksson et al. (2001),Humanitarian aid providers,Oversees,113,Vicarious exposure to life threat - witnessing or knowing someone who had trauma,PTSD symptoms LASC - king 1985,Y,IN,IN,IN,NA,NA,NA
+Farber & Heifetz (1981),Therapists,USA,39,New therapists (1-4 yrs) vs experienced (4-10),Personal Depletion (Home made scale),Y,LT,LT,LT,NA,NA,NA
+Farber & Heifetz (1981),Therapists,USA,36,New therapists (1-4 yrs) vs veteran therapists (11+ yrs),Personal Depletion (Home made scale),Y,LT,LT,LT,NA,NA,NA
+Finkelstien et al. (2015),Therapists,Israel,99,Professional exposure to trauma,PTSDI (solomon 1994),Y,NA,ST,ST,NA,NA,NA
+Finkelstien et al. (2015),Therapists,Israel,99,Professional exposure to trauma,CFQ (Figley 1995),Y,ST,ST,ST,NA,NA,NA
+Foreman (2018),Therapists,USA,68,Percentage of clients on a counselor's caseload with a reported history of trauma,"Five Factor Wellness Inventory (5F-Wel; Myers & Sweeney, 2014)",Y,IN,IN,IN,NA,NA,NA
+Foreman (2018),Therapists,USA,68,Percentage of clients on a counselor's caseload with a reported history of trauma (+wellness),"Trauma and Attachment Belief Scale (TABS; Pearlman, 2003)",Y,NA,IN,IN,NA,NA,NA
+Gil & Weinberg (2015),Therapists,Israel,160,Number of clients who are trauma survivors,"ST -  PTSD Symptom Scale-Self Report (PSS-SR)=(Foa et al., 1993)",Y,NA,IN,IN,STS,STS,STS
+Gil & Weinberg (2015),Therapists,Israel,160,Percieved level of exposure to traumatic content,"ST -  PTSD Symptom Scale-Self Report (PSS-SR)=(Foa et al., 1993)",Y,IN,LT,IN,STS,STS,STS
+Hammen & Peters (1978),Students,USA,63,Talking to a person playing the role of a depressed person/non depressed person,"Wessman-Ricks 10-point elation-depression scale (Wessman & Ricks, 1966)",Y,ST,LT,ST,NA,NA,NA
+Hammen & Peters (1978),Students,USA,63,Talking to a person playing the role of a depressed person/non depressed person,"Depression Adjective Check List (Lubin, 196S)",Y,NA,ST,ST,NA,NA,NA
+Howes et al. (1985),Students,USA,16,"Students BDI was measured and their roomate BDI was measured, the analysis is of people paired with non-depressed, depressed and depressed->non-depressed people.",Beck Depression Inventory,Y,NA,IN,IN,NA,NA,NA
+Howes et al. (1985),Students,USA,30,"Interaction of 3 groups (depressed, nondepressed, started depressed and got better) and time 1, 5 and 11 weeks",Beck Depression Inventory,Y,IN,ST,IN,NA,NA,NA
+King & Heller (1984),Students,USA,45,20 minute phone conversation with depressed patient vs nondepressed patient vs nondepressed nonpatient,"Depression of person, MAACL (Zuckerman & Lubm, 1965)",Y,IN,ST,IN,NA,NA,NA
+King & Heller (1984),Students,USA,45,20 minute phone conversation with depressed patient vs nondepressed patient vs nondepressed nonpatient,"Anxiety of person, MAACL (Zuckerman & Lubm, 1965)",Y,IN,NA,IN,NA,NA,NA
+Makadia et al. (2016),Clinical psychologist trainess,UK,544,Exposure to trauma work,STSS (Secondary traumatic stress scale - Figley 2004),Y,IN,ST,ST,STS,STS,STS
+Makadia et al. (2016),Clinical psychologist trainess,UK,544,Exposure to trauma work,"Trauma and Attachment Belief Scale (TABS; Pearlman, 2003)",Y,ST,ST,ST,NA,NA,NA
+Meffert et al. (2014),Partners of police officers,USA,71,Officer Exposure Officer Report on Critical Incident History Questionnaire (CIHQ),Modified Secondary Traumatic Stress Questionnaire (MSTQ),Y,ST,ST,ST,STS,STS,STS
+Meffert et al. (2014),Partners of police officers,USA,71,Officer Exposure Spouse Report on Critical Incident History Questionnaire (CIHQ),Modified Secondary Traumatic Stress Questionnaire (MSTQ),Y,NA,ST,ST,STS,STS,STS
+Mishori et al. (2014),Clinicians of people seaking asylum,USA,192,Years of experience: <5 vs 10+,Self report of experiencing Vicarious trauma,Y,LT,LT,LT,VT,VT,VT
+Mishori et al. (2014),Clinicians of people seaking asylum,USA,192,Years of experience: 5-10 vs 10+,Self report of experiencing Vicarious trauma,Y,LT,LT,LT,VT,VT,VT
+Mishori et al. (2014),Clinicians of people seaking asylum,USA,76,Number of evals: 5-9 versus 1-4,Self report of experiencing Vicarious trauma,Y,ST,ST,ST,VT,VT,VT
+Mishori et al. (2014),Clinicians of people seaking asylum,USA,76,Number of evals: 10-19 versus 1-4,Self report of experiencing Vicarious trauma,Y,ST,ST,ST,VT,VT,VT
+Mishori et al. (2014),Clinicians of people seaking asylum,USA,76,Number of evals: 20-49 versus 1-4 ,Self report of experiencing Vicarious trauma,Y,ST,ST,ST,VT,VT,VT
+Mishori et al. (2014),Clinicians of people seaking asylum,USA,76,Number of evals: >50 versus 1-4 ,Self report of experiencing Vicarious trauma,Y,NA,NA,ST,VT,VT,VT
+Nelson-Gardell & Harris (2003),Social workers and childwelfare workers,USA,166,Years of child welfare experience,"Compassion Fatigue Self Test for Psychotherapists (Figley, 1995)",Y,NA,LT,LT,NA,NA,NA
+O'Mahony et al. (2017),"palliative medicine physicians, nurses, social workers, and chaplains",USA,66,Years of practice in pallative care,Burnout subscal of ProQOL,Y,NA,LT,LT,BO,BO,BO
+Pearlman & Macian (1995),Therapists,USA,172,Number of years doing trauma work,TSI Belief scale,Y,NA,LT,LT,NA,NA,NA
+Pearlman & Macian (1995),Therapists,USA,181,% of survivors in caseload,TSI Belief scale,Y,IN,IN,IN,NA,NA,NA
+Pearlman & Macian (1995),Therapists,USA,172,Number of years doing trauma work,General distress SCL90-R,Y,LT,LT,LT,NA,NA,NA
+Pearlman & Macian (1995),Therapists,USA,181,% of survivors in caseload,General distress SCL90-R,Y,IN,IN,IN,NA,NA,NA
+Pelon (2017),Social Workers,USA,38,Average Daily census of hospice,Compassion Fatigue subscale ofProQOL,Y,NA,ST,ST,NA,NA,NA
+Pelon (2017),Social Workers,USA,51,Number of years employed with hosice,Compassion Fatigue subscale ofProQOL,Y,LT,LT,LT,NA,NA,NA
+Raquepaw & Miller (1989),Social Workers and Psychologists,USA,44,More clients then they want vs the right amount vs less,Emotional Exhaustion subscale of MBI - Frequency,Y,NA,IN,ST,BO,BO,BO
+Raquepaw & Miller (1989),Social Workers and Psychologists,USA,44,More clients then they want vs the right amount vs less,Emotional Exhaustion subscale of MBI - Intensity,Y,ST,ST,ST,BO,BO,BO
+Raquepaw & Miller (1989),Social Workers and Psychologists,USA,44,More clients then they want vs the right amount vs less,DePersonalization subscale of MBI - Frequency,Y,LT,LT,ST,BO,BO,BO
+Raquepaw & Miller (1989),Social Workers and Psychologists,USA,44,More clients then they want vs the right amount vs less,DePersonalization subscale of MBI - Intensity,Y,NA,ST,ST,BO,BO,BO
+Rhineberger-Dunn et al. (2016),Prison officers,USA,456,Direct hours of contact with offenders per week,STSS (Bride & Figley 2004),Y,NA,ST,ST,STS,STS,STS
+Rossi et al. (2012),Mental Health experts,USA,248,Part time vs Full time,BurnOut subcscale of ProQOL,Y,NA,LT,LT,BO,BO,BO
+Rossi et al. (2012),Mental Health experts,USA,243,Part time vs Full time,Compassion Fatigue  subcscale of ProQOL,Y,NA,LT,LT,NA,NA,NA
+Rossi et al. (2012),Mental Health experts,USA,247,Years working in mental health,BurnOut subcscale of ProQOL,Y,LT,LT,LT,BO,BO,BO
+Rossi et al. (2012),Mental Health experts,USA,242,Years working in mental health,Compassion Fatigue  subcscale of ProQOL,Y,NA,LT,LT,NA,NA,NA
+Schauben & Frazier (1995),Psychologists and the Sexual violence counselors,USA,148,Percentage of sexual violence survivors in the counselors' current caseload,"TSI Belief Scale (Traumatic Stress Institute; Pearlman & MacIan, 1993)",Y,NA,IN,IN,NA,NA,NA
+Schauben & Frazier (1995),Psychologists and the Sexual violence counselors,USA,148,Percentage of sexual violence survivors in the counselors' current caseload,PTSD symptoms: symptom checklist developed by the authors based on the DSMIII-R,Y,IN,IN,IN,NA,NA,NA
+Schauben & Frazier (1995),Psychologists and the Sexual violence counselors,USA,148,Percentage of sexual violence survivors in the counselors' current caseload,"Vicarious trauma (home made: the enduring psychological consequences for therapists of exposure to the traumatic experiences of victim clients (e.g., nightmares, heightened fear, and increased feelings of vulnerability).",Y,IN,IN,IN,VT,VT,VT
+Schauben & Frazier (1995),Psychologists and the Sexual violence counselors,USA,148,Percentage of sexual violence survivors in the counselors' current caseload,"Negative Affect: Four subscales from the Brief Symptom Inventory (BSI; Derogatis, 1977)",Y,NA,IN,IN,NA,NA,NA
+Schauben & Frazier (1995),Psychologists and the Sexual violence counselors,USA,148,Percentage of sexual violence survivors in the counselors' current caseload,"Burnout: The Maslach Burnout Inventory (MBI; Maslach & Jackson, 1986)",Y,IN,IN,IN,BO,BO,BO
+Sprang et al. (2007),Mental health providers,USA,1121,Years of experience,"Compassion Fatigue subscale of Professional Quality of Life Scale (ProQOL) (Stamm, 2002b)",Y,NA,LT,LT,NA,NA,NA
+Sprang et al. (2007),Mental health providers,USA,1121,% of clients with PTSD,"Compassion Fatigue subscale of Professional Quality of Life Scale (ProQOL) (Stamm, 2002b)",Y,IN,IN,IN,NA,NA,NA
+Sprang et al. (2007),Mental health providers,USA,1121,Years of experience,"Burnout subscale of Professional Quality of Life Scale (ProQOL) (Stamm, 2002b)",Y,NA,LT,LT,BO,BO,BO
+Sprang et al. (2007),Mental health providers,USA,1121,% of clients with PTSD,"Burnout subscale of Professional Quality of Life Scale (ProQOL) (Stamm, 2002b)",Y,IN,IN,IN,BO,BO,BO
+Starcher & Stolzenberg (2020),Forensic interviewers at child advocacy center,USA,157,"Number of of forensic interviews per month (0-4, 5-10, 11-16, 17-25)","Burnout: Oldenburg Burnout Inventory, a 16-item scale that measures burnout across two main dimensions: exhaustion and disengagement (Demerouti et al., 2010)",Y,NA,IN,ST,BO,BO,BO
+Starcher & Stolzenberg (2020),Forensic interviewers at child advocacy center,USA,157,"Agency case loads (""my agency has sufficient staff"" vs not)","Burnout: Oldenburg Burnout Inventory, a 16-item scale that measures burnout across two main dimensions: exhaustion and disengagement (Demerouti et al., 2010)",Y,LT,LT,ST,BO,BO,BO
+Starcher & Stolzenberg (2020),Forensic interviewers at child advocacy center,USA,157,"Number of of forensic interviews per month (0-4, 5-10, 11-16, 17-25)","Secondary Trauma: STSS (Bonach & Heckert, 2012; Bride, 2007; Bride et al., 2007; Perron & Hiltz, 2006)",Y,NA,IN,ST,STS,STS,STS
+Starcher & Stolzenberg (2020),Forensic interviewers at child advocacy center,USA,157,"Agency case loads (""my agency has sufficient staff"" vs not)","Secondary Trauma: STSS (Bonach & Heckert, 2012; Bride, 2007; Bride et al., 2007; Perron & Hiltz, 2006)",Y,ST,ST,ST,STS,STS,STS
+Winer et al. (1981),Psychology students,USA,266,Reading a transcript of depressed vs non-depressed person,Feelings of sadness part of Mood Adjective Check List (MACL) developed and validated by Nowlis (1965).,Y,NA,IN,IN,NA,NA,NA
+Winer et al. (1981),Psychology students,USA,266,Reading a transcript of depressed vs non-depressed person,Feelings of anxiety part of Mood Adjective Check List (MACL) developed and validated by Nowlis (1965).,Y,IN,IN,IN,NA,NA,NA
