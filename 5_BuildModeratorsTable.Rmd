@@ -1,0 +1,131 @@
+---
+title: "TEST"
+author: "Avi Kluger"
+date: "11/10/2020"
+output:
+  html_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(metafor)
+library(dplyr)
+
+df      <- read.csv("SecondaryTraumaInput.csv")
+dfClean <- subset(df, !is.na(r))
+
+x <- escalc(measure="COR", ri = r, ni = N, 
+            slab= Author,
+            data = dfClean)
+x$id <- as.factor(1:nrow(x))
+
+x$Stress <- ifelse(is.na(x$Stress) | x$Stress == "", "Other", x$Stress)
+
+source("4_BuildMATable.R")
+
+moderator <- "Exposure"
+moderator <- "Stress"
+modLevels      <- levels(as.factor(x[, moderator]))
+
+choosenCostruct <- "Effect.of.exposure"
+
+Table0 <- buildTable(construct =  "Effect.of.exposure")
+
+for (i in 1:length(modLevels)){
+  y <- x[which(x[, moderator] == modLevels[i]), ]
+  if (nrow(y) > 1) {
+  Table1 <- buildTable(line = i, data = y, construct = modLevels[i])
+}
+  if (nrow(y) == 1) {
+    Table1[i, "Construct"] <- modLevels[i]
+    Table1[i, "k.ES"]      <- 1
+    Table1[i, "N.observa"] <- format(sum(y$N), big.mark = ",")
+    library(compute.es)
+    Table1[i, "r"]         <- rd(y$Effect.r)
+    Table1[i, "lb"]        <- rd(res(y$Effect.r, n = y$N, verbose=FALSE)$l.r)
+    Table1[i, "ub"]        <- rd(res(y$Effect.r, n = y$N, verbose=FALSE)$u.r)
+  }
+}
+Table1 <- Table1[order(as.numeric(Table1$r)), ]
+Table1
+
+#Set the weakest effect as a reference level
+kPlusOne <- Table1$Construct[which(Table1$k.ES > 1)]
+z <- x[which(x[, moderator] %in% kPlusOne), ]
+
+#Find the first construct with k > 1 to serve as intercept
+intercept <- Table1$Construct[which(Table1$k.ES > 1)[1]]
+
+z$moderator <- relevel(as.factor(z[, moderator]), ref = intercept)
+  if (length(table(z[, "Sample"])) > 1) {
+  res.mv0 <- rma.mv(yi,
+                    vi,
+                    random =  ~  1 | Author/ Sample/ factor(id),
+                    data = z,
+                    control=list(optimizer="optim", optmethod="Nelder-Mead"))
+  print(update(res.mv0, mods = ~ moderator + 0))
+  res.mv1 <- update(res.mv0, mods = ~  moderator)
+  } else {
+    res.mv0 <- rma.mv(Effect.r,
+                      vi,
+                      random =  ~  1 | FullArticle / factor(id),
+                      data = z)
+    print(update(res.mv0, mods = ~ moderator + 0))
+    res.mv1 <- update(res.mv0, mods = ~ moderator) 
+  }
+  print(res.mv1)
+  table(z$moderator)
+  R2 <- (sum(res.mv0$sigma2) - sum(res.mv1$sigma2)) / sum(res.mv0$sigma2)
+  print(R2) 
+
+Table1[which(Table1$Construct == intercept), "pMR"] <- "I"
+
+Table1$Construct  %in%  kPlusOne
+var  <- dimnames(res.mv1$b)[[1]]
+bVal <- as.numeric(res.mv1$b)
+pVal <- as.numeric(res.mv1$pval)
+pValSorted <- as.data.frame(cbind(var, bVal))
+
+pValSorted <- cbind(pValSorted, pVal)
+pValSorted <- pValSorted[order(pValSorted$bVal), ]
+
+Table1[Table1$Construct %in%  kPlusOne, ][-c(1), "pMR"] <- 
+  ifelse(pValSorted$pVal[-1] < .001, "< .001", rd(pValSorted$pVal[-1], 2))
+
+Table1 <- rbind(Table0, Table1)
+library(knitr)
+library(kableExtra)
+```
+
+```{r}
+kable(Table1)
+```
+
+```{r Table1, echo = FALSE}
+options(knitr.kable.NA = '')
+names(Table1)[2] <- "Effects"
+names(Table1)[3] <- "Ind.\nSamples"
+names(Table1)[4] <- "papers"
+names(Table1)[5] <- "Obser-\nvations"
+names(Table1)[6] <- "Ind. Obs."
+names(Table1)[7] <- "$\\bar{r}$"
+names(Table1)[10] <- "*p* $_{MR}$"
+names(Table1)[12] <- "$\\tau$"
+names(Table1)[13] <- "*I*^2^"
+names(Table1)[14] <- "*r*"
+names(Table1)[15] <- "*p*"
+
+
+Table1 %>% 
+  kable(align = c("lrrrrrrrrrrrrrr"), row.names = FALSE) %>%
+  add_header_above(c(" " = 1, "*k*" = 3, "*N*" = 2, "Effect" = 4,
+                     "Heterogeneity" = 3, "Bias:\nRank test" = 2)) %>%
+  kable_styling(bootstrap_options = "bordered", full_width = F,
+                position = "left")  %>%
+  column_spec(7, bold = TRUE, border_left = TRUE, border_right = TRUE,
+              width = "1cm") %>% 
+  column_spec(3:5, width = "2cm") %>% 
+  column_spec(5, border_right = TRUE)  %>%
+  add_indent(c(2:nrow(Table1)))
+```
