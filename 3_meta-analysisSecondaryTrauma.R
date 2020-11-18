@@ -54,8 +54,9 @@ plot1 <-
            y = ES,
            ymax = ES + (1.96 * SE),
            ymin = ES - (1.96 * SE),
+         
          )) + geom_pointrange()
-plot1 + coord_flip() 
+plot1 + coord_flip() + ylab("r") + xlab (NULL)
 plot1 <-
   ggplot(data = data[which(data$Design == "Experimental"), ],
          aes(

@@ -25,7 +25,7 @@ x$Stress <- ifelse(is.na(x$Stress) | x$Stress == "", "Other", x$Stress)
 source("4_BuildMATable.R")
 
 moderator <- "Exposure"
-moderator <- "Stress"
+# moderator <- "Stress"
 modLevels      <- levels(as.factor(x[, moderator]))
 
 choosenCostruct <- "Effect.of.exposure"
